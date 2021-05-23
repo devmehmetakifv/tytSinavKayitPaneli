@@ -28,3 +28,17 @@ Kullanmak isterseniz, kurulum aşamaları aşağıda verilmiştir. Proje tamamen
 Bu proje sadece eğitim amaçlı olarak geliştirilmiştir. Kâr amacı gütmeyen bu projeyi parayla satmak kesinlikle yasaktır ve proje lisansına aykırıdır. Böyle bir girişimde sistem otomatik olarak işlemi saptayacaktır. Lütfen sadece eğitim amaçlı kullanın.
 
 Sorularınız ve önerileriniz için <a href ="mailto:info@mehmetakifvardar.com">buradan</a> bana mail atabilirsiniz.
+
+# Görseller
+
+Aşağıda, scripte ait görseller bulunmaktadır.
+
+![Giriş Ekranı](https://imgyukle.com/i/Oej5wx)
+
+![Kayıt Ekranı](https://imgyukle.com/i/OejTu6)
+
+![Panel](https://imgyukle.com/i/OejLJM)
+
+![Sınav Kayıt Ekranı](https://imgyukle.com/i/OejaZy)
+
+![Sınav Sonuç Ekranı](https://imgyukle.com/i/OejYpp)
